@@ -1,0 +1,5 @@
+# Requirements for Vercel Python Runtime
+# We need to ensure all dependencies for our pipeline are installed
+# Since we use standard libs (json, os, random, datetime, glob), 
+# we mostly just need to define the runtime.
+# If we add more complex dependencies (like pandas or streamlit), we'll list them here.
