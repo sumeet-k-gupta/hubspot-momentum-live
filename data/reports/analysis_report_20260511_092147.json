@@ -1,0 +1,137 @@
+[
+    {
+        "deal_id": "deal_5",
+        "name": "Prospect 5",
+        "stage": "Closed Lost",
+        "amount": 14483,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-11T08:21:47.021378",
+        "comm_count": 6
+    },
+    {
+        "deal_id": "deal_0",
+        "name": "Prospect 0",
+        "stage": "Appointment Scheduled",
+        "amount": 16931,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-04-27T04:21:47.000110",
+        "comm_count": 3
+    },
+    {
+        "deal_id": "deal_2",
+        "name": "Prospect 2",
+        "stage": "Decision Maker Decision Made",
+        "amount": 28186,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-10T09:21:47.005973",
+        "comm_count": 8
+    },
+    {
+        "deal_id": "deal_9",
+        "name": "Prospect 9",
+        "stage": "Closed Won",
+        "amount": 13488,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-10T03:21:47.040780",
+        "comm_count": 6
+    },
+    {
+        "deal_id": "deal_6",
+        "name": "Prospect 6",
+        "stage": "Decision Maker Decision Made",
+        "amount": 24231,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-09T07:21:47.026091",
+        "comm_count": 12
+    },
+    {
+        "deal_id": "deal_3",
+        "name": "Prospect 3",
+        "stage": "Appointment Scheduled",
+        "amount": 47308,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-01T09:21:47.007749",
+        "comm_count": 9
+    },
+    {
+        "deal_id": "deal_7",
+        "name": "Prospect 7",
+        "stage": "Qualified to Buy",
+        "amount": 7849,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-11T00:21:47.032928",
+        "comm_count": 10
+    },
+    {
+        "deal_id": "deal_11",
+        "name": "Prospect 11",
+        "stage": "Qualified to Buy",
+        "amount": 17503,
+        "status": "Active",
+        "last_comm_date": "2026-05-06T15:21:47.048977",
+        "comm_count": 3
+    },
+    {
+        "deal_id": "deal_4",
+        "name": "Prospect 4",
+        "stage": "Decision Maker Decision Made",
+        "amount": 47218,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-08T17:21:47.012407",
+        "comm_count": 12
+    },
+    {
+        "deal_id": "deal_10",
+        "name": "Prospect 10",
+        "stage": "Decision Maker Decision Made",
+        "amount": 28901,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-10T14:21:47.046693",
+        "comm_count": 12
+    },
+    {
+        "deal_id": "deal_13",
+        "name": "Prospect 13",
+        "stage": "Closed Lost",
+        "amount": 13873,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-11T07:21:47.057444",
+        "comm_count": 8
+    },
+    {
+        "deal_id": "deal_14",
+        "name": "Prospect 14",
+        "stage": "Presentation Decision Made",
+        "amount": 11948,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-10T13:21:47.064191",
+        "comm_count": 12
+    },
+    {
+        "deal_id": "deal_8",
+        "name": "Prospect 8",
+        "stage": "Decision Maker Decision Made",
+        "amount": 13451,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-09T13:21:47.034712",
+        "comm_count": 8
+    },
+    {
+        "deal_id": "deal_1",
+        "name": "Prospect 1",
+        "stage": "Closed Lost",
+        "amount": 7796,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-04-30T22:21:47.000152",
+        "comm_count": 5
+    },
+    {
+        "deal_id": "deal_12",
+        "name": "Prospect 12",
+        "stage": "Decision Maker Decision Made",
+        "amount": 25759,
+        "status": "Ghosting Detected (Content Decay)",
+        "last_comm_date": "2026-05-06T10:21:47.054555",
+        "comm_count": 8
+    }
+]
